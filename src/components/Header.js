@@ -5,7 +5,7 @@ import MenuButton from './MenuButton'
 const Header = () => {
     return (
         <>
-            <header className='bg-blue-500 flex items-center justify-between'>
+            <header className='absolute w-full flex items-center justify-between p-5'>
                 <div>
                     <Logo />
                 </div>
